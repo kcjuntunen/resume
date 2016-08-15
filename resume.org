@@ -27,14 +27,20 @@ drawings and stitches them together in a PDF packet using [[https://github.com/i
 - [[https://github.com/kcjuntunen/DrawingCollector][https://github.com/kcjuntunen/DrawingCollector]]
 * Experience
 ** 2014-Current
-Machine programmer/Software developer - Amstore Corp.
+- Amstore Corp.
+  - Machine programmer
+  - Software developer
 ** 2013-2014
-Engineer/Machine Programmer - Amstore Corp.
+- Amstore Corp.
+  - Engineer
+  - Machine Programmer
 ** 2012-2013
-Team Leader, Shear/Press operator - Amstore Comp.
+- Amstore Corp.
+  - Team Leader
+  - Shear/Press operator
 * Education
 ** 2008-2009
-Baker College, CS Major
+- Baker College, CS Major
 * Skills
 |       <r> | <l>                                    |
 |     Linux | Linux user since 1996                  |

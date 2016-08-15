@@ -42,14 +42,14 @@ drawings and stitches them together in a PDF packet using [[https://github.com/i
 ** 2008-2009
 - Baker College, CS Major
 * Skills
-|       <r> | <l>                                    |
-|     Linux | Linux user since 1996                  |
-|       C++ | Studied in college                     |
-|        C# | Developed Solidworks AddIns/Macros     |
-|    Python | Quick scripts and full applications    |
-|       VBA | The old way of doing SolidWorks macros |
-|     Shell | Bash, eshell                           |
-|       Web | HTML5, CSS3, PHP                       |
-| Databases | MySQL/Mariadb, Microsoft SQ, MongoDB   |
-| Dev Tools | Git, Emacs, Visual Studio, TDD         |
-|   Servers | Eve, Apache, Lighttp                   |
+| / |       <r> | <l>                                    |
+|   |     Linux | Linux user since 1996                  |
+|   |       C++ | Studied in college                     |
+|   |        C# | Developed Solidworks AddIns/Macros     |
+|   |    Python | Quick scripts and full applications    |
+|   |       VBA | The old way of doing SolidWorks macros |
+|   |     Shell | Bash, eshell                           |
+|   |       Web | HTML5, CSS3, PHP                       |
+|   | Databases | MySQL/Mariadb, Microsoft SQ, MongoDB   |
+|   | Dev Tools | Git, Emacs, Visual Studio, TDD         |
+|   |   Servers | Eve, Apache, Lighttp                   |

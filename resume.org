@@ -1,6 +1,6 @@
 #+title: Resume
 #+email: juntunen.kc@gmail.com
-#+options: num:nil toc:nil ':t title:nil
+#+options: num:nil ':t title:nil
 #+SETUPFILE: theme-bigblow.setup
 
 | / |    <r> | <l>                           |

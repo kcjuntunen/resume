@@ -1,6 +1,8 @@
 #+title: Resume
 #+email: juntunen.kc@gmail.com
 #+options: num:nil toc:nil ':t title:nil
+#+SETUPFILE: theme-bigblow.setup
+
 | / |    <r> | <l>                           |
 |   |   Name | K. C. Juntunen                |
 |   |  Email | [[mailto:juntunen.kc@gmail.com][juntunen.kc@gmail.com]]         |
